@@ -1,3 +1,4 @@
+<div align=center>
 ### 🔭 What I focusing on 
  <img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 
@@ -31,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
